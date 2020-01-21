@@ -1,7 +1,6 @@
 # simple_list
-<b>Lista de Contatos em Flutter com API em python<b>
-<p>Lista de contatos para exemplificar a criação de uma API utilizando python e flask, assim como o desenvolvimento de um simples 
-aplicativo que carrega os dados da API e exibe em uma ListView, para atualizar os dados na lista view utilizamos BLOC.
+<b>Contact list in Flutter with API in python<b>
+<p>Contact list to exemplify the creation of an API using python and flask, as well as the development of a simple application that loads the data from the API and displays it in a ListView, to update the data in the view list we use BLOC.
 </p>
 
 
